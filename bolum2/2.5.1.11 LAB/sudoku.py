@@ -1,3 +1,4 @@
+#Laboratuvar sorusundan farklı.
 def print_sudoku(board):
     for row in board:
         print(" ".join(str(num) for num in row))
